@@ -1,0 +1,15 @@
+D:\TestCalculator\UnitTestCalculator\bin\Debug\UnitTestCalculator.dll
+D:\TestCalculator\UnitTestCalculator\bin\Debug\UnitTestCalculator.pdb
+D:\TestCalculator\UnitTestCalculator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\TestCalculator\UnitTestCalculator\bin\Debug\TestCalculator.exe
+D:\TestCalculator\UnitTestCalculator\bin\Debug\TestCalculator.pdb
+D:\TestCalculator\UnitTestCalculator\obj\Debug\UnitTestCalculator.csprojResolveAssemblyReference.cache
+D:\TestCalculator\UnitTestCalculator\obj\Debug\UnitTestCalculator.dll
+D:\TestCalculator\UnitTestCalculator\obj\Debug\UnitTestCalculator.pdb
+C:\Users\alyona\Downloads\TestCalculator\UnitTestCalculator\bin\Debug\UnitTestCalculator.dll
+C:\Users\alyona\Downloads\TestCalculator\UnitTestCalculator\bin\Debug\UnitTestCalculator.pdb
+C:\Users\alyona\Downloads\TestCalculator\UnitTestCalculator\bin\Debug\TestCalculator.exe
+C:\Users\alyona\Downloads\TestCalculator\UnitTestCalculator\bin\Debug\TestCalculator.pdb
+C:\Users\alyona\Downloads\TestCalculator\UnitTestCalculator\obj\Debug\UnitTestCalculator.csprojResolveAssemblyReference.cache
+C:\Users\alyona\Downloads\TestCalculator\UnitTestCalculator\obj\Debug\UnitTestCalculator.dll
+C:\Users\alyona\Downloads\TestCalculator\UnitTestCalculator\obj\Debug\UnitTestCalculator.pdb

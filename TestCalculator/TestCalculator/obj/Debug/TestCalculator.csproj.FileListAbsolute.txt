@@ -1,0 +1,16 @@
+C:\Users\Default\Documents\Бибик\TestCalculator\TestCalculator\bin\Debug\TestCalculator.exe.config
+C:\Users\Default\Documents\Бибик\TestCalculator\TestCalculator\bin\Debug\TestCalculator.exe
+C:\Users\Default\Documents\Бибик\TestCalculator\TestCalculator\bin\Debug\TestCalculator.pdb
+C:\Users\Default\Documents\Бибик\TestCalculator\TestCalculator\obj\Debug\TestCalculator.exe
+C:\Users\Default\Documents\Бибик\TestCalculator\TestCalculator\obj\Debug\TestCalculator.pdb
+D:\TestCalculator\TestCalculator\bin\Debug\TestCalculator.exe.config
+D:\TestCalculator\TestCalculator\obj\Debug\TestCalculator.exe
+D:\TestCalculator\TestCalculator\obj\Debug\TestCalculator.pdb
+D:\TestCalculator\TestCalculator\bin\Debug\TestCalculator.exe
+D:\TestCalculator\TestCalculator\bin\Debug\TestCalculator.pdb
+C:\Users\alyona\Downloads\TestCalculator\TestCalculator\bin\Debug\TestCalculator.exe.config
+C:\Users\alyona\Downloads\TestCalculator\TestCalculator\obj\Debug\TestCalculator.exe
+C:\Users\alyona\Downloads\TestCalculator\TestCalculator\obj\Debug\TestCalculator.pdb
+C:\Users\alyona\Downloads\TestCalculator\TestCalculator\bin\Debug\TestCalculator.exe
+C:\Users\alyona\Downloads\TestCalculator\TestCalculator\bin\Debug\TestCalculator.pdb
+C:\Users\alyona\Downloads\TestCalculator\TestCalculator\obj\Debug\TestCalculator.csprojResolveAssemblyReference.cache
